@@ -16,7 +16,7 @@ Affected scripts:
 ```
 
 **Note:** It is not recommended to use together with Joomla! default templates like tpl_Protostar or <br>
-any other template based on jQUery!
+any other template based on jQuery!
 
 # System requirements
 Joomla 3.x +                                                                                <br>
