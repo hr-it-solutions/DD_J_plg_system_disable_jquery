@@ -19,6 +19,9 @@ jimport('joomla.access.access');
  */
 class PlgSystemDD_Disable_JQuery extends JPlugin
 {
+	/**
+	 * @var $app object JFactoy Application
+	 */
 	protected $app;
 
 	/**
